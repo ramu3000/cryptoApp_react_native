@@ -8,6 +8,8 @@
 clone https://github.com/pinkbunny1/cryptoApp_react_native.git
 cd crypto_react_native_app
 npm install
+react-native link react-native-shake-event
+react-native link react-native-vector-icons
 react-native run-ios (For IOS)
 react-native run-andriod (For Android)
 ```
