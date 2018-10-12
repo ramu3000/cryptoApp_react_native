@@ -59,7 +59,8 @@ react-native run-andriod (For Android)
 - [x] Finish search feature (CryptoList View)
 - [x] Update FavList in state when unfollowed from FavListScreen (CryptoFav View)
 
-
+## Created in Code in the woods camp (camp by Barona)
+You can get more detailed information from here https://www.codeinthewoods.fi/
 
 ## Contributors
 - @pinkbunny1 (Jin Lee)
